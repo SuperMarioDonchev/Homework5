@@ -1,1 +1,1 @@
-# MyDevice2
+# MyDevice
